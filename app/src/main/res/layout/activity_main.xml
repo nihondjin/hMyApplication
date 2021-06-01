@@ -13,7 +13,6 @@
        android:layout_margin="12dp"
        android:textSize="25sp"
        android:textColor="#000"
-       android:textColorHint="@android:color/holo_blue_light"
        android:text="FIRST TEXT"
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"/>
